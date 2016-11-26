@@ -1,5 +1,5 @@
 {
-    "name": "ggdx/laravel-Mandrill",
+    "name": "ggdx/laravel-mandrill",
     "description": "Laravel 5 service provider for Mandrill",
     "keywords": ["laravel", "mandrill"],
     "minimum-stability": "dev",
